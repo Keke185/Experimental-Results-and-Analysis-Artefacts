@@ -1,0 +1,51 @@
+item_id,subtype,gold_label,predicted,correct
+Q_104,WA-D,Weakly Aligned,Mismatched,False
+Q_113,WA-D,Weakly Aligned,Mismatched,False
+Q_114,WA-D,Weakly Aligned,Mismatched,False
+Q_115,WA-D,Weakly Aligned,Mismatched,False
+Q_119,WA-D,Weakly Aligned,Mismatched,False
+Q_120,WA-D,Weakly Aligned,Mismatched,False
+Q_123,WA-D,Weakly Aligned,Mismatched,False
+Q_127,WA-D,Weakly Aligned,Mismatched,False
+Q_136,WA-D,Weakly Aligned,Mismatched,False
+Q_139,WA-D,Weakly Aligned,Aligned,False
+Q_147,WA-D,Weakly Aligned,Aligned,False
+Q_116,WA-D,Weakly Aligned,Weakly Aligned,True
+Q_121,WA-D,Weakly Aligned,Weakly Aligned,True
+Q_122,WA-D,Weakly Aligned,Weakly Aligned,True
+Q_124,WA-D,Weakly Aligned,Weakly Aligned,True
+Q_125,WA-D,Weakly Aligned,Weakly Aligned,True
+Q_126,WA-D,Weakly Aligned,Weakly Aligned,True
+Q_128,WA-D,Weakly Aligned,Weakly Aligned,True
+Q_130,WA-D,Weakly Aligned,Weakly Aligned,True
+Q_138,WA-D,Weakly Aligned,Weakly Aligned,True
+Q_143,WA-D,Weakly Aligned,Weakly Aligned,True
+Q_146,WA-D,Weakly Aligned,Weakly Aligned,True
+Q_148,WA-D,Weakly Aligned,Weakly Aligned,True
+Q_149,WA-D,Weakly Aligned,Weakly Aligned,True
+Q_150,WA-D,Weakly Aligned,Weakly Aligned,True
+Q_101,WA-F,Weakly Aligned,Mismatched,False
+Q_108,WA-F,Weakly Aligned,Mismatched,False
+Q_102,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_103,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_105,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_106,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_107,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_109,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_110,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_111,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_112,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_117,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_118,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_129,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_131,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_132,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_133,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_134,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_135,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_137,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_140,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_141,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_142,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_144,WA-F,Weakly Aligned,Weakly Aligned,True
+Q_145,WA-F,Weakly Aligned,Weakly Aligned,True
